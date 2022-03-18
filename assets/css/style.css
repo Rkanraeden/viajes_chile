@@ -1,0 +1,36 @@
+:root {
+    --black: 
+}
+
+.nav--img {
+    height: 0.1 rem;
+}
+    
+
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+
+.bar{
+    color: white;
+}
+
+.text{
+    color: white;
+    text-align: justify;
+}
+
+.icon{
+    background-color: #40CFFF;
+    text-align: center;
+}
