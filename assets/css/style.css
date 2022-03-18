@@ -28,6 +28,7 @@ body {
 .text{
     color: white;
     text-align: justify;
+    font-weight: 100;
 }
 
 .icon{
@@ -36,5 +37,14 @@ body {
 }
 
 .card-text1{
-    font-weight: 200;
+    font-weight: 100;
+}
+
+.form1{
+    color: white
+
+}
+
+.navbar{
+    background-color: transparent !important;
 }
