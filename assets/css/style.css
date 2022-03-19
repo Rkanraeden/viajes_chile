@@ -1,7 +1,3 @@
-:root {
-    --black: 
-}
-
 .nav--img {
     height: 0.1 rem;
 }
@@ -12,9 +8,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.nav-link{
-
-}
 
 .title{
     color: white;
@@ -51,4 +44,11 @@ body {
 
 html{
     scroll-behavior: smooth;
+
+}
+
+.text2{
+    color: white;
+    text-align: center;
+    font-weight: 200;
 }
